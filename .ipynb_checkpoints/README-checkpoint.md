@@ -23,14 +23,20 @@
 ### 4. Tổng kết
 1. Khó khăn khi thực hiện đồ án
 * Thái:
+    * Chưa thành thạo trong việc sử dụng các công cụ hỗ trợ và thư viện lập trình.
+    * Quá trình phân tích câu hỏi về dữ liệu còn nhiều hạn chế.
 * Đạt:
 * Đức:
 2. Kiến thức đạt được sau khi thực hiện đồ án
 * Thái:
+    * Nắm được quy trình xử lý dữ liệu cơ bản: collect data - explore data - asking meaningful questions - analyze data.
+    * Hiểu được sự quan trọng của quá trình tiền xử lý dữ liệu.
+    * Sử dụng cơ bản các thư viện pandas, numpy, matplotlib và các công cụ Git (Github), WSL, Jupyter Notebook.
 * Đạt:
 * Đức:
 3. Ý tưởng phát triển nếu có thêm thời gian
 * Finetune mô hình được huẩn luyện sẵn từ Hugging Face để đạt được độ chính xác cao hơn.
+* Điều chỉnh các đồ thị để phù hợp hơn trong việc trực quan kết quả tính toán.
 * 
 
 
@@ -58,4 +64,4 @@ https://huggingface.co/blog/sentiment-analysis-python
 * Github repository
 https://github.com/lengoctuong/Prj-Manga-Dataset_Programming4DS
 
-* Lab của môn học
+* Nội dung các bài lab của môn học.
