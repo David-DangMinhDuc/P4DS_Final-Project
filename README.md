@@ -72,9 +72,9 @@
 
 #### 5. Thái độ hưởng ứng của cộng đồng đối với các sự kiện (hashtag) ####
 - **Phân tích:**
-    * Tạo một dataframe với các cột `['hashtag_name', 'count', 'positive_text', 'negative_text']` với: `hashtag_name`: tên của hashtag và độc nhất cho mỗi sự kiện; `count`: số lần hashtag xuất hiện trong tất cả tweet, giúp xác định độ phổ biến của hashtag; `positive_text` và `negative_text` lần lượt là số lượng bình luận tích cực và tiêu cực của cộng đồng đối với hashtag.
-    * Quy trình thực hiện: bước 1 - tìm và đếm số lần xuất hiện của các hashtag. Bước 2 - tìm và phân loại (sentiment analysis) nội dung của các tweet có hashtag tương ứng.
-    * Vẽ biểu đồ cột đôi trực quan cho kết quả đạt được.
+    - Tạo một dataframe với các cột `['hashtag_name', 'count', 'positive_text', 'negative_text']` với: `hashtag_name`: tên của hashtag và độc nhất cho mỗi sự kiện; `count`: số lần hashtag xuất hiện trong tất cả tweet, giúp xác định độ phổ biến của hashtag; `positive_text` và `negative_text` lần lượt là số lượng bình luận tích cực và tiêu cực của cộng đồng đối với hashtag.
+    - Quy trình thực hiện: bước 1 - tìm và đếm số lần xuất hiện của các hashtag. Bước 2 - tìm và phân loại (sentiment analysis) nội dung của các tweet có hashtag tương ứng.
+    - Vẽ biểu đồ cột đôi trực quan cho kết quả đạt được.
 
 - **Kết quả:**
 ![Q5](./Images/5.jpg)
