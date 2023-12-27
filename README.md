@@ -77,6 +77,7 @@
     - Vẽ biểu đồ cột đôi trực quan cho kết quả đạt được.
 
 - **Kết quả:**
+
 ![Q5](./Images/5.jpg)
 
 ### 4. Tổng kết
