@@ -26,6 +26,9 @@
     * Chưa thành thạo trong việc sử dụng các công cụ hỗ trợ và thư viện lập trình.
     * Quá trình phân tích câu hỏi về dữ liệu còn nhiều hạn chế.
 * Đạt:
+    * Chưa thành thạo trong việc sử dụng các công cụ hỗ trợ và thư viện lập trình.
+    * Chưa thành thạo trong việc sử dụng Github trong Ubuntu.
+    * Dùng khá nhiều thời gian trong việc chọn lọc các câu hỏi sao cho phù hợp nhất với dữ liệu.
 * Đức:
 2. Kiến thức đạt được sau khi thực hiện đồ án
 * Thái:
@@ -33,6 +36,10 @@
     * Hiểu được sự quan trọng của quá trình tiền xử lý dữ liệu.
     * Sử dụng cơ bản các thư viện pandas, numpy, matplotlib và các công cụ Git (Github), WSL, Jupyter Notebook.
 * Đạt:
+    * Nắm được quy trình xử lý dữ liệu cơ bản: collect data - explore data - asking meaningful questions - analyze data.
+    * Hiểu được sự quan trọng của quá trình tiền xử lý dữ liệu.
+    * Sử dụng cơ bản các thư viện pandas, numpy, matplotlib, seaborn và các công cụ Git (Github), WSL, Jupyter Notebook.
+    * Hiểu được được cách sử dụng và vận hành Github với nhóm.
 * Đức:
 3. Ý tưởng phát triển nếu có thêm thời gian
 * Finetune mô hình được huẩn luyện sẵn từ Hugging Face để đạt được độ chính xác cao hơn.
